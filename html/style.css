@@ -6,20 +6,8 @@
   color: #fff;
 }
 
-.skyblue {
-  background: deepskyblue;
-}
-
-.purple {
-  background: rebeccapurple;
-}
-
-.red {
-  background: indianred;
-}
-
 .navbar-button {
-  background-color: #76bd79;
+  background-color:rgb(100, 175, 132);
   border: none;
   border-radius: 15px;
   color: rgb(255, 255, 255);
@@ -27,5 +15,13 @@
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 20px;
+  font-size: 25px;
+}
+
+img {
+  float: left;
+}
+
+.navbar-toggler-icon {
+  color:white !important;
 }
