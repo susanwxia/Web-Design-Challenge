@@ -25,3 +25,11 @@ img {
 .navbar-toggler-icon {
   color:white !important;
 }
+
+@media only screen and (max-width: 767px) {
+  /* Set background color to white on small screens */
+  body {
+    /* Visual */
+    background-color: #fff;
+  }
+}
